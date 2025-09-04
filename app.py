@@ -9,7 +9,8 @@ def index():
 
 @app.route('/data')
 def data():
-    df = pd.read_excel(r"C:\Users\aakas\Downloads\projects\Project\test2.xlsx", header=1)
+    excelFile_path="path"  # enter the excel file path here
+    df = pd.read_excel(excelFile_path, header=1)
     print(df.columns.tolist())
     #print(df.head())
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")  # Normalize column names
