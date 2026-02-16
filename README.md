@@ -70,6 +70,9 @@ File search and download (optional)
 
 Hosted locally or on cloud platforms
 
+![WhatsApp Image 2025-09-05 at 18 31 32_3b80adf0](https://github.com/user-attachments/assets/d288f785-c4a1-4a15-85fb-2c5bcde76167)
+
+
 9. Webpage
 A user-friendly interface for stakeholders to:
 
